@@ -1,1 +1,2 @@
-"# Machine-Learning-Exercises" 
+Machine Learning (Andrew Ng)
+by Stanford University
